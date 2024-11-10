@@ -1,0 +1,16 @@
+node_modules/
+package-lock.json
+.env
+# 디폴트 무시된 파일
+/shelf/
+/workspace.xml
+# 에디터 기반 HTTP 클라이언트 요청
+/httpRequests/
+/meditoc_chatbot.iml
+/modules.xml
+/vcs.xml
+.idea/
+/node_modules/
+qa.jso*
+*.txt
+*qa*.json*
